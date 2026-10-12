@@ -1,0 +1,1 @@
+{"name":"bengal-care-billing-tools","private":true,"version":"1.0.0","scripts":{"samples":"node generate-sample-pdfs.js"},"dependencies":{"jspdf":"2.5.1","jspdf-autotable":"3.8.2"}}
